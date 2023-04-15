@@ -1,0 +1,14 @@
+{
+  "name": "Strict Block",
+  "description": "Makes blocked users visible less",
+  "authors": [
+    {
+      "name": "Yellowsink",
+      "id": "435026627907420161"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_badge_certified_moderator"
+  }
+}
