@@ -1,0 +1,1 @@
+(function(t,n,o){"use strict";const s=o.before("_sendMessage",n.findByProps("_sendMessage"),function(a){let[,e]=a;e.content=e.content.replaceAll(/:\/\/twitter.com\/([a-zA-Z0-9_]+)\/status/g,"://vxtwitter.com/$1/status")});return t.onUnload=s,t})({},vendetta.metro,vendetta.patcher);
