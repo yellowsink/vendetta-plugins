@@ -1,0 +1,14 @@
+{
+  "name": "vxtwitter",
+  "description": "Replaces twitter post URLs with vxtwitter URLs",
+  "authors": [
+    {
+      "name": "Yellowsink",
+      "id": "435026627907420161"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_link"
+  }
+}
